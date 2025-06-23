@@ -1,0 +1,39 @@
+{
+    "Machine Learning": {
+        "required_skills": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Statistics",
+            "Data Visualization",
+            "TensorFlow/PyTorch",
+            "NLP",
+            "A/B Testing",
+            "Big Data Tools"
+        ]
+    },
+    "Frontend Developer": {
+        "required_skills": [
+            "HTML/CSS",
+            "JavaScript",
+            "React/Angular/Vue",
+            "Responsive Design",
+            "Web Performance",
+            "Version Control",
+            "Testing",
+            "UI/UX Principles"
+        ]
+    },
+    "Backend Developer": {
+        "required_skills": [
+            "Python/Java/Node.js",
+            "Databases",
+            "API Development",
+            "Authentication",
+            "Server Management",
+            "Containerization",
+            "Microservices",
+            "Security"
+        ]
+    }
+}
